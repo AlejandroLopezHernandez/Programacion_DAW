@@ -1,4 +1,5 @@
-package POO.Transporte;
+package POO.Abstraccion_Transporte;
+
 public class Tren extends Medio_Transporte { 
     private int vagones; 
 

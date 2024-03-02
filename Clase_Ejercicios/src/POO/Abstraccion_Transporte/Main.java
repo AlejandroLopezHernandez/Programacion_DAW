@@ -1,4 +1,4 @@
-package POO.Transporte;
+package POO.Abstraccion_Transporte;
 
 public class Main {
     public static void main(String[] args) {
@@ -14,7 +14,7 @@ public class Main {
         avion.mostrarDetalles(); System.out.println("Altitud Máxima: " + avion.getAltitudMaxima() + " metros\n");
         // Calcular el costo de un viaje de 200 km para cada medio de transporte 
         double distanciaViaje = 200.0; 
-                System.out.println("Costo del viaje en coche: " + coche.calcular_coste_coche(distanciaViaje) + " euros");
+                System.out.println("Costo del viaje en coche: " + coche.calcularCostoViaje(distanciaViaje) + " euros");
                 System.out.println("Costo del viaje en tren: " + tren.calcularCostoViaje(distanciaViaje) + " euros"); 
                 System.out.println("Costo del viaje en avión: " + avion.calcularCostoViaje(distanciaViaje) + " euros");
         }

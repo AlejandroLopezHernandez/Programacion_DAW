@@ -1,4 +1,5 @@
-package POO.Transporte;
+package POO.Abstraccion_Transporte;
+
 
 public class Avion extends Medio_Transporte {
     private int altitudMaxima; 

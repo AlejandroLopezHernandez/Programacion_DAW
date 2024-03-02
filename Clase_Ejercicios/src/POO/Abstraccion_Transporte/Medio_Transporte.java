@@ -1,8 +1,9 @@
-package POO.Transporte;
+package POO.Abstraccion_Transporte;
 
-public class Medio_Transporte { 
+
+public abstract class Medio_Transporte { 
     private String tipo;
-    private double consumoCombustible; // en litros por kilómetro
+    protected double consumoCombustible; // en litros por kilómetro
     private double precioBase; 
      //Constructor 
     public Medio_Transporte(String tipo,double consumoCombustible,double precioBase) {
@@ -16,8 +17,8 @@ public class Medio_Transporte {
         System.out.println("Consumo de Combustible: " + consumoCombustible + " litros/km"); 
         System.out.println("Precio Base: euros" + precioBase); 
     } 
-    public double calcularCostoViaje(double distancia) { 
-        return consumoCombustible * distancia + precioBase;
-    } 
+    public abstract double calcularCostoViaje();
+    /*public double calcularCostoViaje(double distancia) { 
+        return consumoCombustible * distancia + precioBase;}*/ 
 }
      

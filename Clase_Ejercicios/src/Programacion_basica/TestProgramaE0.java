@@ -1,4 +1,4 @@
-package refuerzo;
+package Programacion_basica;
 
 /**
  * TestProgramaE0 Representa una clase que muestra un mensaje por consola

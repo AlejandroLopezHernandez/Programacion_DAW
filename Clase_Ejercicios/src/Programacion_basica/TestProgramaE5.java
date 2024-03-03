@@ -1,4 +1,4 @@
-package refuerzo;
+package Programacion_basica;
 
 import static java.lang.Math.PI;
 import java.util.Scanner;

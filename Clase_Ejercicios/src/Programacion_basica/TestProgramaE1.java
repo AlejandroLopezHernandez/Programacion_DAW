@@ -1,5 +1,5 @@
 
-package refuerzo;
+package Programacion_basica;
 
 import java.util.Scanner;
 

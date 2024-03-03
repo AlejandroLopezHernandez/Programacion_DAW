@@ -15,4 +15,9 @@ public class Avion extends Medio_Transporte {
          super(tipo, consumoCombustible, precioBase); 
          this.altitudMaxima = altitudMaxima; 
         } 
+        public double calcular_coste_avion (double distancia){
+            double coste_base_avion = super.calcularCostoViaje(distancia);
+            double coste_total_avion = coste_base_avion + (0.1/ altitudMaxima);
+            return coste_total_avion;
+        }
     } 

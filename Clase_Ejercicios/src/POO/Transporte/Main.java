@@ -15,7 +15,7 @@ public class Main {
         // Calcular el costo de un viaje de 200 km para cada medio de transporte 
         double distanciaViaje = 200.0; 
                 System.out.println("Costo del viaje en coche: " + coche.calcular_coste_coche(distanciaViaje) + " euros");
-                System.out.println("Costo del viaje en tren: " + tren.calcularCostoViaje(distanciaViaje) + " euros"); 
-                System.out.println("Costo del viaje en avión: " + avion.calcularCostoViaje(distanciaViaje) + " euros");
+                System.out.println("Costo del viaje en tren: " + tren.calcular_coste_tren(distanciaViaje) + " euros"); 
+                System.out.println("Costo del viaje en avión: " + avion.calcular_coste_avion(distanciaViaje) + " euros");
         }
 }

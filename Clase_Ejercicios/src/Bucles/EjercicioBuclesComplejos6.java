@@ -1,4 +1,4 @@
-package LoopsArray;
+package Bucles;
 import java.util.Scanner;
 public class EjercicioBuclesComplejos6 {
     public static void main (String[]args){

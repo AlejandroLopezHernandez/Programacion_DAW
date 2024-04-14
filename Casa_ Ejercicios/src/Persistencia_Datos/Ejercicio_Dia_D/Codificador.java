@@ -1,6 +1,11 @@
 package Persistencia_Datos.Ejercicio_Dia_D;
 
-public class Cifrador {
+public class Codificador {
+    //Constructor vacío
+    public Codificador(){
+        
+    }
+
    public String cifrar (String entrada_cifrar){
     int desplazamiento = 1;
     StringBuilder texto_cifrado = new StringBuilder();

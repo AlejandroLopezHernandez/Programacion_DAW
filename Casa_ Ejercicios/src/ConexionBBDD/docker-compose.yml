@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:latest
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-q", "-d", "postgres", "-U", "root" ]
+      timeout: 45s
+      interval: 10s
+      retries: 10
+    restart: always
+    environment:
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=a1234567
+#      - APP_DB_USER=aadd
+#      - APP_DB_PASS=inm
+#      - APP_DB_NAME=Continentes
+    volumes:
+      - ./db:/docker-entrypoint-initdb.d/
+    ports:
+      - 5433:5432

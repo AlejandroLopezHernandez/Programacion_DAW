@@ -1,0 +1,53 @@
+a�o;atm_sector;atm_descripcion;atm_desc;atm_unidades;atm_cantidad
+2021;1;Combusti�n en la producci�n y transformaci�n de energ�a;CO;t;567.63
+2021;2;Plantas de combusti�n no industrial;CO;t;6572.61
+2021;3;Plantas de combusti�n industrial;CO;t;5441.54
+2021;4;Procesos industriales sin combusti�n;CO;t;532.25
+2021;5;Extracci�n y distribuci�n de combustibles f�siles y energ�a geot�rmica;CO;t;0.00
+2021;6;Uso de disolventes y otros productos;CO;t;460.28
+2021;7;Transporte por carretera;CO;t;36470.09
+2021;8;Otros modos de transporte y maquinaria m�vil;CO;t;7684.14
+2021;9;Tratamiento y eliminaci�n de residuos;CO;t;2633.60
+2021;10;Agricultura;CO;t;0.01
+2021;11;Otras fuentes y sumideros (naturaleza);CO;t;2324.65
+2021;1;Combusti�n en la producci�n y transformaci�n de energ�a;CO2;kt;90.67
+2021;2;Plantas de combusti�n no industrial;CO2;kt;5696.18
+2021;3;Plantas de combusti�n industrial;CO2;kt;2514.40
+2021;4;Procesos industriales sin combusti�n;CO2;kt;493.54
+2021;5;Extracci�n y distribuci�n de combustibles f�siles y energ�a geot�rmica;CO2;kt;0.02
+2021;6;Uso de disolventes y otros productos;CO2;kt;0.00
+2021;7;Transporte por carretera;CO2;kt;10102.99
+2021;8;Otros modos de transporte y maquinaria m�vil;CO2;kt;3975.07
+2021;9;Tratamiento y eliminaci�n de residuos;CO2;kt;246.43
+2021;10;Agricultura;CO2;kt;3.36
+2021;11;Otras fuentes y sumideros (naturaleza);CO2;kt;0.00
+2021;1;Combusti�n en la producci�n y transformaci�n de energ�a;N2O;t;1.89
+2021;2;Plantas de combusti�n no industrial;N2O;t;29.03
+2021;3;Plantas de combusti�n industrial;N2O;t;41.08
+2021;4;Procesos industriales sin combusti�n;N2O;t;0.00
+2021;5;Extracci�n y distribuci�n de combustibles f�siles y energ�a geot�rmica;N2O;t;0.00
+2021;6;Uso de disolventes y otros productos;N2O;t;293.87
+2021;7;Transporte por carretera;N2O;t;335.09
+2021;8;Otros modos de transporte y maquinaria m�vil;N2O;t;109.68
+2021;1;Combusti�n en la producci�n y transformaci�n de energ�a;PM2,5;t;56.99
+2021;2;Plantas de combusti�n no industrial;PM2,5;t;899.64
+2021;3;Plantas de combusti�n industrial;PM2,5;t;689.18
+2021;4;Procesos industriales sin combusti�n;PM2,5;t;154.43
+2021;5;Extracci�n y distribuci�n de combustibles f�siles y energ�a geot�rmica;PM2,5;t;0.00
+2021;6;Uso de disolventes y otros productos;PM2,5;t;236.10
+2021;7;Transporte por carretera;PM2,5;t;1444.52
+2021;8;Otros modos de transporte y maquinaria m�vil;PM2,5;t;244.49
+2021;9;Tratamiento y eliminaci�n de residuos;PM2,5;t;400.13
+2021;10;Agricultura;PM2,5;t;38.16
+2021;11;Otras fuentes y sumideros (naturaleza);PM2,5;t;150.61
+2021;1;Combusti�n en la producci�n y transformaci�n de energ�a;PM10;t;58.45
+2021;2;Plantas de combusti�n no industrial;PM10;t;1064.65
+2021;3;Plantas de combusti�n industrial;PM10;t;712.57
+2021;4;Procesos industriales sin combusti�n;PM10;t;1426.53
+2021;5;Extracci�n y distribuci�n de combustibles f�siles y energ�a geot�rmica;PM10;t;0.00
+2021;6;Uso de disolventes y otros productos;PM10;t;246.56
+2021;7;Transporte por carretera;PM10;t;2022.80
+2021;8;Otros modos de transporte y maquinaria m�vil;PM10;t;245.01
+2021;9;Tratamiento y eliminaci�n de residuos;PM10;t;411.81
+2021;10;Agricultura;PM10;t;632.16
+2021;11;Otras fuentes y sumideros (naturaleza);PM10;t;184.08

@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBucles",
+            "request": "launch",
+            "mainClass": "Bucles.EjercicioBucles",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBucles1_Distancias",
+            "request": "launch",
+            "mainClass": "Bucles.EjercicioBucles1_Distancias",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBucles2_Temperaturas",
+            "request": "launch",
+            "mainClass": "Bucles.EjercicioBucles2_Temperaturas",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBucles6",
+            "request": "launch",
+            "mainClass": "Bucles.EjercicioBucles6",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBuclesComplejos6",
+            "request": "launch",
+            "mainClass": "Bucles.EjercicioBuclesComplejos6",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Ejerciciosbucles1",
+            "request": "launch",
+            "mainClass": "Bucles.Ejerciciosbucles1",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicoBucleswhile3",
+            "request": "launch",
+            "mainClass": "BuclesWhile.EjercicoBucleswhile3",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo_conexion_bbdd_mysql",
+            "request": "launch",
+            "mainClass": "ConexionBBDD.Ejemplo_conexion_bbdd_mysql",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo_IGU",
+            "request": "launch",
+            "mainClass": "Ejemplo2_IGU.Ejemplo_IGU",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraSumaIU",
+            "request": "launch",
+            "mainClass": "Ejemplo_Interfaz_Grafica.CalculadoraSumaIU",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "EjercicioOscar.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioFunciones4",
+            "request": "launch",
+            "mainClass": "Funciones.EjercicioFunciones4",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioFunciones9",
+            "request": "launch",
+            "mainClass": "Funciones.EjercicioFunciones9",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioFuncionesInversiones",
+            "request": "launch",
+            "mainClass": "Funciones.EjercicioFuncionesInversiones",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "OOP_Ejercices.Ejercice1.Person",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "OOP_Ejercices.Ejercice2.Dog",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "OOP_Ejercices.Ejercice3.Rectangle",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "OOP_Ejercices.Ejercice4.Circle",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "OOP_Ejercices.Ejercice5.Book",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "POO.Abstraccion_Transporte.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "POO.Abstracción_Geometría.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "POO.Cartera_valores.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "POO.Colonia_Gatos.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "POO.Concesionario_coches.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "POO.EjercicioRectángulo.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "POO.Ejercicio_Socket.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "POO.Monitor_Servidor.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Sistema_Puntuacion",
+            "request": "launch",
+            "mainClass": "POO.Sistema_Puntuacion",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "POO.Sistema_Solar.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "POO.Transporte.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Generador_ArchivosCSV",
+            "request": "launch",
+            "mainClass": "Persistencia_Archivos.Ejemplo1.Generador_ArchivosCSV",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaLeerArchivoNotas",
+            "request": "launch",
+            "mainClass": "Persistencia_Archivos.Ejemplo1.ProgramaLeerArchivoNotas",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "ProgramaLeerArchivoScanner",
+            "request": "launch",
+            "mainClass": "Persistencia_Archivos.Ejemplo1.ProgramaLeerArchivoScanner",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "Persistencia_Datos.Ejercicio_Dia_D.Main",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "ejercicio1",
+            "request": "launch",
+            "mainClass": "Preparacion_examen.ejercicio1",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "TestProgramaE0",
+            "request": "launch",
+            "mainClass": "Programacion_basica.TestProgramaE0",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "TestProgramaE1",
+            "request": "launch",
+            "mainClass": "Programacion_basica.TestProgramaE1",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "TestProgramaE2",
+            "request": "launch",
+            "mainClass": "Programacion_basica.TestProgramaE2",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "TestProgramaE4",
+            "request": "launch",
+            "mainClass": "Programacion_basica.TestProgramaE4",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "TestProgramaE5",
+            "request": "launch",
+            "mainClass": "Programacion_basica.TestProgramaE5",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "TestProgramaE7",
+            "request": "launch",
+            "mainClass": "Programacion_basica.TestProgramaE7",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "String.Ejercicio1",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2_DNI",
+            "request": "launch",
+            "mainClass": "String.Ejercicio2_DNI",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBucles3_CadenaADN",
+            "request": "launch",
+            "mainClass": "String.EjercicioBucles3_CadenaADN",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioJava8",
+            "request": "launch",
+            "mainClass": "String.EjercicioJava8",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioString10",
+            "request": "launch",
+            "mainClass": "String.EjercicioString10",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioString11",
+            "request": "launch",
+            "mainClass": "String.EjercicioString11",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioString12",
+            "request": "launch",
+            "mainClass": "String.EjercicioString12",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioString6",
+            "request": "launch",
+            "mainClass": "String.EjercicioString6",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioString7",
+            "request": "launch",
+            "mainClass": "String.EjercicioString7",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioString9",
+            "request": "launch",
+            "mainClass": "String.EjercicioString9",
+            "projectName": "Programacion_1°_DAW_8a3d754f"
+        }
+    ]
+}
